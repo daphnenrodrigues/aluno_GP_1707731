@@ -5,5 +5,3 @@ fcporto
 samba e semba
 
 branch-main
-
-![imagem IPG](./imagens/IPG.jpg)
